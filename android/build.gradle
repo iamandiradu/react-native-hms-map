@@ -34,7 +34,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.facebook.react:react-native:0.61.5'
+    implementation 'com.facebook.react:react-native:+'
     implementation 'com.huawei.hms:location:4.0.2.300'
     implementation 'com.huawei.hms:maps:4.0.1.300'
 }
